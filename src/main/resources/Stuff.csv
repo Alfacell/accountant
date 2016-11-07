@@ -1,0 +1,4 @@
+id,email,firstName,lastName,login,password,phone,role,shop_id
+1,albka1986@mail.ru,Oleh,Ponomarenko,albka1986,24121986,+380631441234,ADMIN,NULL
+2,albka1986@mail.ru,Oleg,Ponomarenko,oleg-login,password1234,+380631112220,USER,NULL
+7,NULL,Alina,Any,alina,alina,+38063144,USER,3
